@@ -1,5 +1,7 @@
-# CarletonU-Building-Classification
-Assignment 3 for SYSC4906. The goal is to build an image classification model to recognize a subset of buildings on Carleton Univeristy campus
+# CarletonU Building Classification
+Assignment 3 for SYSC4906. The goal is to build an image classification model to recognize a subset of buildings on Carleton Univeristy campus.
+
+The approach taken is a convolutional neural network. Training makes use of concepts such as data augmentation and dropout. The end results was a model that predicted new images from a randomly selected holdout set with 86% accuracy.
 
 ## Contents
 1. trainModel.ipynb contains all the code to build and train the model from samples images
