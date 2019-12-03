@@ -1,7 +1,7 @@
 # CarletonU-Building-Classification
 Assignment 3 for SYSC4906. The goal is to build an image classification model to recognize a subset of buildings on Carleton Univeristy campus
 
-##contents
+## Contents
 1. trainModel.ipynb contains all the code to build and train the model from samples images
 2. deployModel.ipynb contains all the code to test the model with new images
 3. model.pkl is a serialization version of the model trained model
